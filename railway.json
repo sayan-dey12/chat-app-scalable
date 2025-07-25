@@ -3,7 +3,7 @@
     "root": "server"
   },
   "deploy": {
-    "startCommand": "ts-node-dev index.ts",
+    "startCommand": "npm run start",
     "installCommand": "npm install"
   }
 }
