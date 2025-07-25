@@ -1,0 +1,9 @@
+{
+  "build": {
+    "root": "server"
+  },
+  "deploy": {
+    "startCommand": "ts-node-dev index.ts",
+    "installCommand": "npm install"
+  }
+}
